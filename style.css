@@ -95,3 +95,39 @@ nav .nav__list {
     height: 50px;
     
 }
+
+.goal-box {
+    display: flex;
+    align-items: stretch;
+    justify-content: space-around;
+    position: absolute;
+    top: 490px;
+    right: 0;
+    left: 0;
+    
+}
+
+.goal-box__box {
+    width: 400px;
+    background: #eaee44;
+    border-radius: 10px;
+    color: #000;
+    padding: 15px 25px;
+    font-size: 15px;
+    text-align: center ;
+}
+
+.goal-box__box i {
+    font-size: 28px;
+    margin: 0 auto;
+}
+
+.goal-box__sub {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.goal-box__desc {
+    text-align: justify!important;
+}
