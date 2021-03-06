@@ -313,11 +313,12 @@ http://www.templatemo.com/tm-515-eatery
     }
 
     .custom-navbar.top-nav-collapse {
-      background: #ffffff;
+      background: #454545;
       -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       padding: 12px 0;
+      opacity: 0.97;
     }
 
     .top-nav-collapse .navbar-brand {
@@ -325,7 +326,7 @@ http://www.templatemo.com/tm-515-eatery
     }
 
     .top-nav-collapse .nav li a {
-      color: #575757;
+      color: #ffffff;
     }
 
     .top-nav-collapse .nav .section-btn a {
@@ -549,6 +550,16 @@ http://www.templatemo.com/tm-515-eatery
     letter-spacing: 1px;
     text-transform: uppercase;
     margin-top: 5px;
+  }
+
+
+  /* add title later */
+
+  .events {
+    transform: rotate(-7.5deg);
+    border-radius: 10px;
+    box-shadow: 0.25em 0.25em 0.75em rgba(0,0,0,0.25), 0.125em 0.125em 0.125em rgba(0, 0, 0, 0.15);
+    
   }
 
 
