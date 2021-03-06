@@ -297,6 +297,15 @@ http://www.templatemo.com/tm-515-eatery
     border-color: transparent;
   }
 
+  .custom-navbar  .logo__image-one {
+    width: 70px;
+  }
+
+
+  .custom-navbar .logo__image-two {
+    width: 190px;
+  }
+
   @media(min-width:768px) {
     .custom-navbar {
       border-bottom: 0;
@@ -456,6 +465,10 @@ http://www.templatemo.com/tm-515-eatery
     position: absolute;
   }
 
+  .wow {
+    padding: 0 6em 5em 0;  
+  }
+
 
 
   /*---------------------------------------
@@ -541,7 +554,7 @@ http://www.templatemo.com/tm-515-eatery
 
 
   /*---------------------------------------
-     MENU              
+    MENU              
   -----------------------------------------*/
 
   #menu {
