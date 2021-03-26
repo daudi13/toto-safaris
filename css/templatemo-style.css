@@ -349,8 +349,8 @@ http://www.templatemo.com/tm-515-eatery
     padding-bottom: 30px;
   }
 
-  #home h3 {
-    color: #f9f9f9;
+  .header-subtitle {
+    color: yellow;
     font-size: 14px;
     line-height: inherit;
     letter-spacing: 2px;
